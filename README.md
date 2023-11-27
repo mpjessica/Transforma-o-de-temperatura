@@ -1,2 +1,2 @@
-# Transforma-o-de-temperatura
+# Converter temperatura
 Projeto desenvolvido no curso formação de dados Ada com a seguinte proposta: escrever um código em Python que recebe um número, e a escala de temperatura em que este valor se encontra e para qual ele deseja converter (Celsius, Kelvin ou Fahrenheit). Tanto na escala em que se encontra quanto para a que deseja converter, utilize as letras iniciais como entrada: Celsius - 'C', Kelvin - 'K' ou Fahrenheit - 'F'.
